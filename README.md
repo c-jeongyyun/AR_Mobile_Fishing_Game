@@ -1,6 +1,5 @@
 # AR Mobile Fishing Game 🐬 with NFT
 <p align="middle" >
- 사진넣기 (대표이미지 1장)
 </p>
 
 <p align="middle" >
